@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAEI,AAGQ,IAHJ,CAGI,EAAE,AAAA,OAAO,CAAA;EACL,aAAa,EAAE,GAAG,CAAC,KAAK,CAAC,OAAO,CAAA,UAAU;CAC7C;;AAKT,AAII,kBAJc,CAId,WAAW,AAAA,UAAW,CAAA,CAAC,CAAC,MAAM,CAAA;EAC1B,SAAS,EAAE,UAAU;EACrB,gBAAgB,EAAE,kBAAkB;CAEvC",
+    "sources": [
+        "stilos-n.scss"
+    ],
+    "names": [],
+    "file": "stilos-n.css"
+}

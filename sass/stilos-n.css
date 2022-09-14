@@ -1,0 +1,10 @@
+.nav li.active {
+  border-bottom: 2px solid #535d79 !important;
+}
+
+.contenedor-footer .img-footer:nth-child(1):hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+  background-color: #d3cdbc !important;
+}
+/*# sourceMappingURL=stilos-n.css.map */
